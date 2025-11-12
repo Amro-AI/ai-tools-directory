@@ -1,0 +1,106 @@
+{
+  "analysis_phase": 1,
+  "timestamp": "2025-11-12T22:28:58.202946",
+  "file_info": {
+    "sheets": [
+      "maintenance",
+      "Sheet1",
+      "installation"
+    ],
+    "total_sheets": 3
+  },
+  "sheet_details": {
+    "maintenance": {
+      "row_count": 628,
+      "column_count": 16,
+      "headers": [
+        "Column_0",
+        "Prj_No",
+        "DSCR_AR",
+        "Prc",
+        "Rsp_Tell",
+        "BaldyaNum",
+        "Addr_Ar",
+        "REGN_NM",
+        "emp_nm_ar",
+        "stops",
+        "Cntrl_ty",
+        "Mdl",
+        "Motr_Pwr",
+        "Prts",
+        "CurStrt_dt",
+        "curend_dt"
+      ]
+    },
+    "Sheet1": {
+      "row_count": 20,
+      "column_count": 29,
+      "headers": [
+        "Prj_No",
+        "DSCR_AR",
+        "Prj_Cat",
+        "Prc",
+        "Strt_DT",
+        "End_DT",
+        "Notes",
+        "EndGntyDt",
+        "Rsp_Tell",
+        "Prj_Dt",
+        "Cust_No",
+        "Addr_Ar",
+        "NetVal",
+        "Part_no",
+        "Strt_Ar",
+        "strt2",
+        "Flat_no",
+        "SprPrts",
+        "Regn_No",
+        "Expr1",
+        "REGN_NM_ar",
+        "REGN_NM_en",
+        "emp_nm_AR",
+        "emp_nm_en",
+        "speed",
+        "Stnd_Cnt",
+        "Spd",
+        "Cnt",
+        "camp_Cnt"
+      ]
+    },
+    "installation": {
+      "row_count": 20,
+      "column_count": 29,
+      "headers": [
+        "Prj_No",
+        "DSCR_AR",
+        "Prj_Cat",
+        "Prc",
+        "Strt_DT",
+        "End_DT",
+        "Notes",
+        "EndGntyDt",
+        "Rsp_Tell",
+        "Prj_Dt",
+        "Cust_No",
+        "Addr_Ar",
+        "NetVal",
+        "Part_no",
+        "Strt_Ar",
+        "strt2",
+        "Flat_no",
+        "SprPrts",
+        "Regn_No",
+        "Expr1",
+        "REGN_NM_ar",
+        "REGN_NM_en",
+        "emp_nm_AR",
+        "emp_nm_en",
+        "speed",
+        "Stnd_Cnt",
+        "Spd",
+        "Cnt",
+        "camp_Cnt"
+      ]
+    }
+  }
+}
